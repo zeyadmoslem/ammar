@@ -57,7 +57,7 @@ include 'includes/header.php';
                 </div>
             </div>
 
-            <div class="row align-items-center pt-30">
+            <div class="row align-items-center  pt-30">
                 <div class="col-lg-6 col-md-12">
                     <div class="about-caption">
                         <div class="pricing-list">

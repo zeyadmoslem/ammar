@@ -173,7 +173,7 @@ include 'includes/header.php';
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6   flex-content-center">
+                        <div class="col-lg-6 col-md-6 col-sm-6 mt-s-20  flex-content-center">
                             <div class="pricing-list">
                                 <h4 class="title">Damen: </h4>
                                 <span class="sizes">S &nbsp; &nbsp; &nbsp; &nbsp;M &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; L</span>

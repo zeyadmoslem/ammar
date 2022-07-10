@@ -5857,4 +5857,7 @@ del {
 .header-transparent .logo  a{
    line-height: 50px;
 }
+.mt-s-20{
+    margin-top: 20px;
+}
 }

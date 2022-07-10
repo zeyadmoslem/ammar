@@ -24,6 +24,12 @@ include 'includes/header.php';
     <!--?  Contact Area start  -->
     <section class="contact-section">
         <div class="container">
+            <?php 
+                if(isset($_SESSION['mail_message'])){
+                    echo '<div class="alert alert-success">'.$_SESSION['mail_message'].'</div>';
+                    unset($_SESSION['mail_message']);
+                }
+            ?>
             <div class="d-none d-sm-block mb-5 pb-4">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10240.582569334088!2d8.6436!3d50.08356!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6983d750a9bf3b3!2sMein%20Bester%20Friseur!5e0!3m2!1sen!2sde!4v1657228515467!5m2!1sen!2sde" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

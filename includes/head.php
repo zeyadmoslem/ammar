@@ -9,10 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
-    <meta property="og:title" content="Melies Resturants">
+    <meta property="og:title" content="Mein Bester Friseur">
     <meta property="og:image" content="assets/img/favicon.ico">
     <meta property="og:site_name" content="Mein Bester Friseur">
-    <meta property="og:description" content="Mein Bester Friseur">
+    <meta property="og:description" content="Ihre Frisur macht Ihren Look elegant">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-barstyle" content="black-translucent">
     <meta name="apple-mobile-web-app-title" content="mvcapp">
